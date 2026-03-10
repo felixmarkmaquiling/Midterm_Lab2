@@ -1,0 +1,58 @@
+html{
+    background-image: url(https://i.pinimg.com/originals/ee/52/fe/ee52fe67ecd5d39ded68e91b9ebec0dc.gif);
+    background-attachment: fixed;
+    background-size: cover;
+    color: aliceblue;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-shadow: rgb(177, 30, 55) 5px 5px 5px;
+}
+
+.h1{
+    text-decoration: underline;
+    font-size: 4rem;
+    text-align: center;
+  font-family: "Faster One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.p{
+    font-size: 1rem;
+ text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+    font-size: 3rem;
+   font-family: "Faster One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p{
+  letter-spacing: 1px;
+  font-family: "Iceberg", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+ul{
+    font-size: 1rem;
+}
+
+ol{
+    font-size: 1rem;
+}
+
+.page{
+    text-align: center;
+}
+
+
